@@ -166,7 +166,7 @@ distance ≥ 7.0m  →  🟢 LOW RISK    →  No alert
 ## 👨‍💻 Author
 
 **Abhinav Jha**
-[![GitHub](https://img.shields.io/badge/GitHub-Pr1me9)](https://github.com/Vinay-Partap)
+[![GitHub](https://img.shields.io/badge/GitHub-Pr1me9)](https://github.com/Pr1me9)
 
 ---
 
