@@ -165,8 +165,8 @@ distance ≥ 7.0m  →  🟢 LOW RISK    →  No alert
 
 ## 👨‍💻 Author
 
-**Vinay Partap**
-[![GitHub](https://img.shields.io/badge/GitHub-Vinay--Partap-181717?style=flat&logo=github)](https://github.com/Vinay-Partap)
+**Abhinav Jha**
+[![GitHub](https://img.shields.io/badge/GitHub-Pr1me9)](https://github.com/Vinay-Partap)
 
 ---
 
