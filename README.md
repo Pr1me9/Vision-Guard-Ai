@@ -11,7 +11,7 @@
 
 **A production-grade computer vision system that detects pedestrians and vehicles in real time, estimates proximity, and triggers smart cooldown-controlled alerts.**
 
-[🌐 Live App](https://visionguard-dwiz4twnypak6dkqkr96zz.streamlit.app) · [📖 Documentation](#how-to-run) · [🐛 Report Bug](https://github.com/Vinay-Partap/VisionGuard/issues)
+[🌐 Live App](https://vision-guard-ai-kh6qsxs8jmfg75gqgdr343.streamlit.app) · [📖 Documentation](#how-to-run) · [🐛 Report Bug](https://github.com/Vinay-Partap/VisionGuard/issues)
 
 </div>
 
